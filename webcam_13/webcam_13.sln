@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webcam_13", "webcam_13\webcam_13.csproj", "{D125E98D-62AB-4E96-A6C4-F341E4E13E08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D125E98D-62AB-4E96-A6C4-F341E4E13E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D125E98D-62AB-4E96-A6C4-F341E4E13E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D125E98D-62AB-4E96-A6C4-F341E4E13E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D125E98D-62AB-4E96-A6C4-F341E4E13E08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = webcam_13\webcam_13.csproj
+	EndGlobalSection
+EndGlobal
